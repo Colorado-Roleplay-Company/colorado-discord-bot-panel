@@ -2,7 +2,7 @@
 
 Panel web para configurar y administrar servidores de Discord.
 
-[Panel web](https://crpds.em4nu3l69dll.dev) · [Emanuel Duarte](https://github.com/em4nu3i69dll) · [Portafolio](https://em4nu3l69dll.dev)
+[Emanuel Duarte](https://github.com/em4nu3i69dll) · [Portafolio](https://em4nu3l69dll.dev)
 
 ![Estadísticas del servidor](imagenes/03-estadisticas.png)
 
